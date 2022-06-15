@@ -1,4 +1,5 @@
 # WIP
+This mod is missing a GUI for configuring the radius of the mod. Currently the command /slabcircle \<center block pos\> \<radius\> is used to configure the location of the circle. Since the spawning was changed and in later versions it is easier to make mob farms, it is unlikely it will be updated/improved to have a new GUI.
 # Minecraft Slabber Mod
 A fabric Minecraft mod that can display spawnable nether mob locations for Minecraft 1.16.5. This is useful for "slabbing" off spawnable spaces for building a wither skeleton farm.
 
